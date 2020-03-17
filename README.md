@@ -15,5 +15,5 @@ i did create the data frame from this wikipedia page : https://en.wikipedia.org/
 ## task 2: adding latitude and longitude to the dataframe
 using foursquare api i get the latitude and longitude for each neighborhood
 
-## task 3: replicating the analysis with toronto data set
+## task 3: doing the analysis with toronto data set
 
